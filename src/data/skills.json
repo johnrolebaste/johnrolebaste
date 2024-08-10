@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Html",
+    "icon": "vscode-icons:file-type-html"
+  },
+  {
+    "name": "Css",
+    "icon": "vscode-icons:file-type-css"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "logos:javascript"
+  },
+  {
+    "name": "TypeScript",
+    "icon": "logos:typescript-icon"
+  },
+  {
+    "name": "ReactJS",
+    "icon": "logos:react"
+  },
+  {
+    "name": "NodeJS",
+    "icon": "skill-icons:nodejs-dark"
+  },
+  {
+    "name": "NestJS",
+    "icon": "logos:nestjs"
+  },
+  {
+    "name": "NextJS",
+    "icon": "logos:nextjs"
+  },
+  {
+    "name": "ExpressJS",
+    "icon": "simple-icons:express"
+  },
+  {
+    "name": "Postgres",
+    "icon": "logos:postgresql"
+  },
+  {
+    "name": "MySQL",
+    "icon": "logos:mysql"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "skill-icons:mongodb"
+  },
+  {
+    "name": "Tailwindcss",
+    "icon": "skill-icons:tailwindcss-dark"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "logos:bootstrap"
+  },
+  {
+    "name": "ShadcnUI",
+    "icon": "simple-icons:shadcnui"
+  },
+  {
+    "name": "Git",
+    "icon": "devicon:git"
+  },
+  {
+    "name": "C#",
+    "icon": "logos:c-sharp"
+  }
+]
